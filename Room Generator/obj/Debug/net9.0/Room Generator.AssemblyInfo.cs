@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Room Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f44a2170195a88bc2b3426f31e0a38ba17f2468e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Room Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Room Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
