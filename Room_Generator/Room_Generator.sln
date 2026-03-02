@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Room Generator", "Room Generator.csproj", "{B2F004EA-2B64-0EF2-850B-ED04574EA97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F004EA-2B64-0EF2-850B-ED04574EA97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F004EA-2B64-0EF2-850B-ED04574EA97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F004EA-2B64-0EF2-850B-ED04574EA97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F004EA-2B64-0EF2-850B-ED04574EA97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {817B9D8C-3024-48C1-A82A-1C208FAE4299}
+	EndGlobalSection
+EndGlobal
